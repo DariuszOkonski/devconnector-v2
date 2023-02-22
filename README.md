@@ -1,8 +1,8 @@
-### DEPENDENCIES
+# DEPENDENCIES
 
-## FRONTEND
+### FRONTEND
 
-## BACKEND
+### BACKEND
 
 - express
 - express-validator
