@@ -12,6 +12,7 @@
 - jsonwebtoken
 - mongoose
 - request
+- https://jwt.io
 
 devDep
 
