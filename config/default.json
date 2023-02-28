@@ -1,4 +1,6 @@
 {
   "mongoURL": "mongodb+srv://dazzdev:Test_123@devconnector.qibmj0z.mongodb.net/?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubclientId": "ddd3d22f4aeca6b494ce",
+  "githubSecret": "f0b3a44d0f8b2af2f8a1a61f0f1d76c40cc70cc0"
 }
