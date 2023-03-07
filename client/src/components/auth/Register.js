@@ -21,12 +21,13 @@ const Register = () => {
 
   const onSubmit = async (e) => {
     e.preventDefault();
+    if (password !== password2) {
+      console.log('Passwords do not match');
+      console.log(password, password2);
+      return;
+    }
+
     console.log('SUCCESS');
-    // if (password !== password2) {
-    //   console.log('Passwords do not match');
-    //   console.log(password, password2);
-    //   return;
-    // }
 
     // console.log(formData);
     // const newUser = { name, email, password };
