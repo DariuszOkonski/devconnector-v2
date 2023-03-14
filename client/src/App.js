@@ -36,6 +36,7 @@ function App() {
             <Routes>
               <Route path='/register' element={<Register />} />
               <Route path='/login' element={<Login />} />
+              <Route path='/dashboard' element={<h1>Dashboard</h1>} />
             </Routes>
           </div>
         </Fragment>
